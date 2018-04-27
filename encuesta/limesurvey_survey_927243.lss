@@ -8793,9 +8793,18 @@
    </row>
    <row>
     <qid><![CDATA[314]]></qid>
+    <code><![CDATA[A0]]></code>
+    <answer><![CDATA[Tenía un acuerdo con mi universidad/empleador para obtener trabajo a mi retorno]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[es-CL]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[314]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Menos de 3 meses]]></answer>
-    <sortorder><![CDATA[3]]></sortorder>
+    <sortorder><![CDATA[4]]></sortorder>
     <assessment_value><![CDATA[0]]></assessment_value>
     <language><![CDATA[es-CL]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -8804,7 +8813,7 @@
     <qid><![CDATA[314]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Entre 4 y 6 meses]]></answer>
-    <sortorder><![CDATA[4]]></sortorder>
+    <sortorder><![CDATA[5]]></sortorder>
     <assessment_value><![CDATA[0]]></assessment_value>
     <language><![CDATA[es-CL]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -8813,7 +8822,7 @@
     <qid><![CDATA[314]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Entre 7 y 9 meses]]></answer>
-    <sortorder><![CDATA[5]]></sortorder>
+    <sortorder><![CDATA[6]]></sortorder>
     <assessment_value><![CDATA[0]]></assessment_value>
     <language><![CDATA[es-CL]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -8822,7 +8831,7 @@
     <qid><![CDATA[314]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Entre 10 y 12 meses]]></answer>
-    <sortorder><![CDATA[6]]></sortorder>
+    <sortorder><![CDATA[7]]></sortorder>
     <assessment_value><![CDATA[0]]></assessment_value>
     <language><![CDATA[es-CL]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -8831,7 +8840,7 @@
     <qid><![CDATA[314]]></qid>
     <code><![CDATA[A5]]></code>
     <answer><![CDATA[Entre 13 y 18 meses]]></answer>
-    <sortorder><![CDATA[7]]></sortorder>
+    <sortorder><![CDATA[8]]></sortorder>
     <assessment_value><![CDATA[0]]></assessment_value>
     <language><![CDATA[es-CL]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -8840,7 +8849,7 @@
     <qid><![CDATA[314]]></qid>
     <code><![CDATA[A6]]></code>
     <answer><![CDATA[Entre 19 y 24 meses]]></answer>
-    <sortorder><![CDATA[8]]></sortorder>
+    <sortorder><![CDATA[9]]></sortorder>
     <assessment_value><![CDATA[0]]></assessment_value>
     <language><![CDATA[es-CL]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -8849,7 +8858,7 @@
     <qid><![CDATA[314]]></qid>
     <code><![CDATA[A7]]></code>
     <answer><![CDATA[Más de 24 meses]]></answer>
-    <sortorder><![CDATA[9]]></sortorder>
+    <sortorder><![CDATA[10]]></sortorder>
     <assessment_value><![CDATA[0]]></assessment_value>
     <language><![CDATA[es-CL]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -17306,7 +17315,7 @@
     <parent_qid><![CDATA[393]]></parent_qid>
     <sid><![CDATA[927243]]></sid>
     <gid><![CDATA[33]]></gid>
-    <type><![CDATA[T]]></type>
+    <type><![CDATA[M]]></type>
     <title><![CDATA[SQ006]]></title>
     <question><![CDATA[Sí, discriminación por estar sobrecalificado]]></question>
     <other><![CDATA[N]]></other>
@@ -17321,7 +17330,7 @@
     <parent_qid><![CDATA[574]]></parent_qid>
     <sid><![CDATA[927243]]></sid>
     <gid><![CDATA[32]]></gid>
-    <type><![CDATA[T]]></type>
+    <type><![CDATA[M]]></type>
     <title><![CDATA[SQ001]]></title>
     <question><![CDATA[Porque firmé un pagaré que me obliga a volver]]></question>
     <other><![CDATA[N]]></other>
@@ -17337,7 +17346,7 @@
     <parent_qid><![CDATA[574]]></parent_qid>
     <sid><![CDATA[927243]]></sid>
     <gid><![CDATA[32]]></gid>
-    <type><![CDATA[T]]></type>
+    <type><![CDATA[M]]></type>
     <title><![CDATA[SQ002]]></title>
     <question><![CDATA[Porque tengo un acuerdo con mi empleador]]></question>
     <other><![CDATA[N]]></other>
@@ -17940,6 +17949,7 @@
    <row>
     <sid><![CDATA[927243]]></sid>
     <admin><![CDATA[Cristian Bravo Lillo]]></admin>
+    <expires><![CDATA[2018-03-20 21:44:13]]></expires>
     <adminemail><![CDATA[cbravo@kind.cl]]></adminemail>
     <anonymized><![CDATA[N]]></anonymized>
     <faxto/>
@@ -18025,19 +18035,22 @@
 <p>Esta encuesta tiene por objetivo realizar un catastro de la inserción laboral de los científicos(as) que estén ya sea en el país o en el extranjero. Pueden participar de esta encuesta los investigadores(as) que mantienen alguna relación profesional y/o académica con Chile, ya sea porque tienen nacionalidad chilena, porque trabajan en el país o porque trabajan en proyectos relacionados con Chile.</p>
 
 <p><strong>Esta encuesta es anónima</strong>, a menos que el encuestado(a) nos provea su correo electrónico para recibir los resultados de la encuesta, o para recibir información sobre ANIP. Este cuestionario ha sido elaborado por el Centro de Estudios ANIP con colaboración
-de Rech y Nexos Chile, <strong>quienes se comprometen a no divulgar ninguna
-información personal de los encuestados</strong>.</p>
+de Rech y Nexos Chile, <strong>quienes se comprometen a no divulgar ninguna información personal de los encuestados</strong>.</p>
 
 <p> Los resultados de esta encuesta serán presentados a las autoridades del Gobierno, Conicyt y Corfo con el objetivo de buscar mejoras al actual sistema de Ciencia, Tecnología e Innovación (CTI) y definir políticas científicas de mediano y largo plazo.</p>
 
-<p>La encuesta requiere alrededor de <strong>15 minutos</strong> para ser completada, y estará disponible hasta el 2 de febrero de 2018.</p>
+<p>La encuesta requiere alrededor de <strong>15 minutos</strong> para ser completada, y estará disponible hasta el 16 de marzo de 2018.</p>
 
 <p>Para más información sobre la encuesta, <a href="https://www.anip.cl/encuesta-insercion-2018/" target="_blank">haz click aquí</a>.</p>]]></surveyls_welcometext>
-    <surveyls_endtext><![CDATA[<p>Muchas gracias por contestar esta encuesta.</p>
+    <surveyls_endtext><![CDATA[<p>¡Muchas gracias por contestar esta encuesta! Los resultados serán publicados en la página web de ANIP, y serán enviados por correo electrónico a aquellos que así lo hayan solicitado.</p>
 
-<p>Si requiere mayor información respecto a esta encuesta y su contenido, puede enviarnos un correo a centroestudios@anip.cl.</p>
+<p>¡Por favor ayúdanos a difundir esta encuesta entre tus amigos y colegas! La encuesta estará disponible <strong>hasta el 16 de marzo de 2018</strong>, y necesitamos conseguir la mayor difusión posible.</p>
 
-<p>La encuesta estará disponible hasta el 2 de febrero de 2018 y los resultados serán publicados en la página web de ANIP.</p>]]></surveyls_endtext>
+<p>Si requieres mayor información respecto a la encuesta y su contenido, envíanos un correo a centroestudios@anip.cl.</p>
+
+<iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fkind.cl%2Fls%2Findex.php%2F927243&layout=button&size=small&mobile_iframe=true&width=81&height=20&appId" width="81" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">2da Encuesta de inserción de Investigadores científicos – ANIP 2018. ¡PARTICIPA! <a href="https://t.co/leHOoyY54R">https://t.co/leHOoyY54R</a> <a href="https://twitter.com/MasCienciaChile?ref_src=twsrc%5Etfw">@MasCienciaChile</a> <a href="https://twitter.com/hashtag/Chile?src=hash&amp;ref_src=twsrc%5Etfw">#Chile</a> <a href="https://twitter.com/hashtag/science?src=hash&amp;ref_src=twsrc%5Etfw">#science</a></p>&mdash; ANIP (@ANIP_Chile) <a href="https://twitter.com/ANIP_Chile/status/954371559384219649?ref_src=twsrc%5Etfw">January 19, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></surveyls_endtext>
     <surveyls_url/>
     <surveyls_urldescription/>
     <surveyls_email_invite_subj><![CDATA[Invitación a participar en una encuesta]]></surveyls_email_invite_subj>
