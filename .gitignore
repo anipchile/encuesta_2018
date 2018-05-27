@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# R files
+R/.Rproj.user
+R/.RData
+R/.Rhistory
+.Rproj.user
+encuesta/short-answers-20180320.csv
