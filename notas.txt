@@ -1,0 +1,83 @@
+
+Reunión el 20180324, C. Bravo, R. Muñoz, K.
+-------------------------------------------
+
+
+Elementos que deberían ir en el informe ejecutivo:
+
++ Tenemos que separar todo por magíster y doctorado
+
++ Queremos saber todos los resultados de la encuesta desagregados por área
+de conocimiento (no por subárea), y podemos informar las subáreas que están
+incluidas dentro de cada área.
+
++ Histograma del año de obtención del postgrado.
+
++ Gráfico de torta con la distribución de los países
+
++ Género, edad
+
++ ¿Cómo financiaste tus estudios de posgrado?
+
++ ¿Cuántos postdoctorados... ?
+
++ Revisar la pregunta de "Luego de volver a Chile ¿cuánto tiempo te tomó
+encontrar el primer trabajo?" respecto de magíster/doctorados.
+
++ En general, ¿cómo calificarías tu experiencia de reinserción en Chile?
+
++ Mostrar la pregunta "¿Tu trabajo o búsqueda de trabajo está centrado en el
+el ámbito de la investigación científica?" separada por master/phd
+
++ Mostrar "Actualmente, ¿tienes trabajo remunerado en Chile?" separada.
+
++ Mostrar "¿En qué institución o área realizas tu trabajo?" separada.
+
++ Mostrar "¿Qué tan relacionado está tu trabajo con tu especialización en el
+{postgrado}?" separada.
+
++ Mostrar "Respecto de tu trabajo, ¿qué tan satisfecho estás con...?" con
+las siguientes subpreguntas:
+	+ [Tu salario]
+	+ [Tu estabilidad laboral]
+	+ [Las condiciones generales de trabajo]
+	+ [La posibilidad de progreso]
+	+ [Tu grado de independencia en el trabajo]
+	+ [Tu contribución a la sociedad a través del trabajo]
+
++ Mostrar "¿En qué grado este trabajo pone en riesgo tu...?" separada por
+master/phd con las sgtes subpreguntas:
+	+ [Integridad Física]
+	+ [Integridad Psicológica]
+
++ Mostrar "¿Cuentas con un seguro o previsión de salud?"
+
++ Mostrar "¿Qué tipo de actividades desempeñas en este trabajo?"
+
++ Mostrar "¿Qué tipo de relación laboral tienes en este trabajo?"
+
++ Mostrar "Considerando todos tus ingresos, ¿en que rango sitúas tu ingreso
+líquido mensual total?"
+
++ Mostrar "¿Qué tan satisfecho estás con tu nivel de ingresos total mensual?"
+
++ Mostrar "¿Crees que deberías tener más tiempo para investigar en este trabajo?"
+y "¿Crees que deberías tener más tiempo para enseñar en este trabajo?"
+
++ Mostrar "¿Has sufrido algún tipo de discriminación en tu(s) trabajo(s)
+como científico o científica?"
+
++ Mostrar "Actualmente, ¿estás buscando trabajo?" desagregado por master/phd
+y colocarla en contexto con otras preguntas.
+
+
+
+
+Otras observaciones:
+
++ Generar un número aleatorio como identificador único de las respuestas.
+
++ Echarle una mirada a la estabilidad laboral. La intuición de Karla es que
+mientras hace más tiempo consiguió el phd, más satisfecho debería estar la
+persona con su trabajo.
+

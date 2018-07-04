@@ -143,13 +143,13 @@ grph.drawGrid = function(horizontal=TRUE, vertical=TRUE, diagonal=FALSE,
 #>	put them next to the right of each bar.
 #> -------------------------------------------------------------------------------------------------------------------------
 grph.drawText = function(thisdata, yc, thesetexts, cex=.8, cutoff=.05, voffset=0, within=TRUE) {
-	if (class(thisdata)!='matrix') {
-		thisdata = matrix(ncol=1, data=thisdata)
-	}
+#	if (class(thisdata)!='matrix') {
+#		thisdata = matrix(ncol=1, data=thisdata)
+#	}
 
-	if (class(thesetexts)!='matrix') {
-		thesetexts = matrix(ncol=1, data=thesetexts)
-	}
+#	if (class(thesetexts)!='matrix') {
+#		thesetexts = matrix(ncol=1, data=thesetexts)
+#	}
 
 	#> If the texts go within the segment bars, the X position is half way the bar length.
 	#> Otherwise, it is equal to the length of bar segments, plus a small horizontal offset.
@@ -487,7 +487,8 @@ grph.stackedFullProportionBarplot = function(mydata, filename = NULL, thiscolor 
 			 las = 1,
 			 col = thiscolor,
 			 axes = FALSE,
-			 cex.names = cex[1]
+			 cex.names = cex[1],
+			 border = NA
 	)
 
 	#> Axes
